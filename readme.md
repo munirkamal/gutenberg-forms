@@ -30,7 +30,7 @@ The following are some of the main features, but there's more which you need to 
 - Dynamically populate field values via URL parameters.
 - Hidden field type with dynamic value tags.
 - Calculator Forms - Create basic or complex calculations
-- Spam Protection - Google reCaptcha Integration
+- Spam Protection - Google reCaptcha & Akismet Integration
 - Email Notification Builder - Create a custom email notification content
 - Form Styles - Form & Field blocks come with different styles. (you can add yours as well)
 - Responsive Forms - The forms you create are fully responsive.
@@ -42,6 +42,8 @@ The following are some of the main features, but there's more which you need to 
 - MailPoet Addon ([https://github.com/CakeWP/gutenberg-forms-mailpoet](https://github.com/CakeWP/gutenberg-forms-mailpoet))
 
 - Mailchimp Addon ([https://github.com/CakeWP/gutenberg-forms-mailchimp-addon](https://github.com/CakeWP/gutenberg-forms-mailchimp-addon))
+
+- Akismet Addon ([https://github.com/CakeWP/gutenberg-forms-akismet-addon](https://github.com/CakeWP/gutenberg-forms-akismet-addon))
 
 ## Share Your Feedback & Suggestions 👏
 
@@ -75,7 +77,7 @@ We appreciate all contributions and don't want a wall of rules to get in the way
 
 For more information, visit [Gutenberg Forms](https://gutenbergforms.com).
 
-= 1.8.0 = (24 July 2020)
+= 1.8.0 = (25 July 2020)
 
 - New: Akismet Addon Released
 - Added: Prefix & Suffix Options for fields

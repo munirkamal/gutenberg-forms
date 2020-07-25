@@ -34,12 +34,17 @@ The following are some of the main features, but there's more which you need to 
 * Calculator Forms - Create basic or complex calculations.
 * Dynamically populate field values via URL parameters.
 * Hidden field type with dynamic value tags.
-* Spam Protection - Google reCaptcha Integration.
+* Spam Protection - Google reCaptcha & Akismet Integration.
 * Email Notification Builder - Create a custom email notification content.
 * Form Styles - Form & Field blocks come with different styles. (you can add yours as well).
 * Responsive Forms - The forms you create are fully responsive.
 * Import/Export Forms - Do it the same way you do with any Gutenberg block.
 * More features you will find out while using the plugin.
+
+## Documentation
+
+Please read the docs before creating a support ticket here.
+[https://docs.gutenbergforms.com](https://docs.gutenbergforms.com)
 
 ## Add-ons & Integrations
 
@@ -54,6 +59,12 @@ Mailchimp integration is ready as an add-on. Mailchimp add-on lets you connect y
 
 Read More & Install it, it's **FREE**.
 [https://wordpress.org/plugins/guten-forms-mailchimp/](https://wordpress.org/plugins/guten-forms-mailchimp/)
+
+**Akismet Add-on**
+Akismet integration is ready as an add-on.  It let’s you secure your forms from spammers. Akismet checks your contact form submissions against their global database of spam.
+
+Read More & Install it, it's **FREE**.
+[https://wordpress.org/plugins/guten-forms-akismet/](https://wordpress.org/plugins/guten-forms-akismet/)
 
 ## Share Your Feedback & Suggestions 👏
 
@@ -96,7 +107,7 @@ You may also get involved with the development via Github:
 == Changelog ==
 For more information, visit [Gutenberg Forms](https://gutenbergforms.com).
 
-= 1.8.0 = (24 July 2020)
+= 1.8.0 = (25 July 2020)
 - New: Akismet Addon Released
 - Added: Prefix & Suffix Options for fields
 - Added: Option to add Set Spam & Error Message
